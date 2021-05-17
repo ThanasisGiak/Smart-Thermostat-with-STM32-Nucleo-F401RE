@@ -14,4 +14,4 @@ DS18B20 Temperature Sensor, LCD Display 16x2 Module HD44780 and HC-SR04 Ultrason
 3. [HC-SR04 and STM32- CONTROLLERSTECH site](https://controllerstech.com/hc-sr04-ultrasonic-sensor-and-stm32/)
 4. [Dealing with LEDs using an STM32-playembedded.org site](https://www.playembedded.org/blog/leds-stm32/)
 
-### For this project ARM Keil MDK and ARM University Program Libraries have been used
+### For this project ARM Keil MDK and ARM University Program Libraries have been used.
