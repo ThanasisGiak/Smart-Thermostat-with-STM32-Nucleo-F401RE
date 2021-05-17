@@ -1,1 +1,1 @@
-# Smart-Thermostat-with-STM32-Nucleuo-F401RE
+# Smart-Thermostat-with-STM32-Nucleo-F401RE
